@@ -1,10 +1,10 @@
-.ProductDetails > em > .RetailPriceValue {
-    position:absolute;
-    top:20px;
-    left:20px;
+.calc-percent-off {
+    position: absolute;
+    top: 20px;
+    left: 20px;
+    background: #f57a23;
+    padding: 6px 10px;
     color: #fff;
-    background-color:orange;
-    font-weight: 400;
-    font-size:14px;
-    padding:5px 10px;
+    font-weight: 700;
+    font-size: 16px;
 }
